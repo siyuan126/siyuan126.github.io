@@ -11,5 +11,5 @@ WomenTechWomenYes (WTWY) needs to collect email addresses at subway stations so 
 | Assumptions                                    | So what                         |
 | -----------------------------------------------|:-------------------------------:|
 | WTWY has limited resources                     | Only focus on best options      |
-| signatures collections happen before annul gala| Data before summer matters      |  
+| Signatures collecting happens before annul gala| Data before summer matters      |  
 | Annul gala can be hold anywhere in NYC         | Location of gala doesn't matter |    
