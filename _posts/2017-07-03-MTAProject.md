@@ -2,10 +2,10 @@
 layout: post
 title: MTA Project
 ---
-## Problem Statement
+### Problem Statement
 WomenTechWomenYes (WTWY) needs to collect email addresses at subway stations so it can send free tickets to its annul gala. WTWY hopes to use data analytics to help its street team gather most signatures from those who will attend the gala and contribute to its fundraising and other duties.
-## My approach to WTWY's request
-#### Make assumptions
+### My approach to WTWY's request
+##### Make assumptions
 - There are several assumptions need to be made in order to solve this problem. Here is a list of assumptions and how they affect next steps.
 
 | Assumptions                                    | So what                         |
@@ -15,9 +15,9 @@ WomenTechWomenYes (WTWY) needs to collect email addresses at subway stations so 
 | Annul gala can be hold anywhere in NYC         |   Location of gala doesn't matter |    
 {:.tablestyle}
 
-#### Data Sources
+##### Data Sources
 - I use MTA data (April and May of 2017) to get info of subway stations. In order to get most signatures, street team need to be exposed to as many as people possible. Thus I need to find out the busiest stations and the best locations within the stations. Here is a sample of MTA data file. 
 
 ![alt text](https://siyuan126.github.io/images/Sample MTA data.png)
 
-**[Please click this link to the data dictionary.]( https://data.ny.gov/api/views/i55r-43gk/files/wvX7ZEZpMrzjwBd2r_ZE3Nl4OLdJFP_t32osotBZPi0?download=true&filename=MTA_Turnstile_Data_DataDictionary.pdf)
+*[Please click this link to the data dictionary.]( https://data.ny.gov/api/views/i55r-43gk/files/wvX7ZEZpMrzjwBd2r_ZE3Nl4OLdJFP_t32osotBZPi0?download=true&filename=MTA_Turnstile_Data_DataDictionary.pdf)
