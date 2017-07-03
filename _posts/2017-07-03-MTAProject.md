@@ -8,6 +8,8 @@ WomenTechWomenYes (WTWY) needs to collect email addresses at subway stations so 
 1. Make assumptions
 - There are several assumptions need to be made in order to solve this problem. Here is a list of assumptions and how they affect next steps.
 
+{:.tablestyle}
+
 | Assumptions                                    | So what                         |
 | -----------------------------------------------|:-------------------------------:|
 | WTWY has limited resources                     | Only focus on best options      |
