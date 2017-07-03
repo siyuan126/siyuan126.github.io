@@ -16,6 +16,8 @@ WomenTechWomenYes (WTWY) needs to collect email addresses at subway stations so 
 {:.tablestyle}
 
 #### Data Sources
-- I use MTA data (April and May of 2017) to get info of subway stations. In order to get most signatures, street team need to be exposed to as many as people possible. Thus I need to find out the busiest stations and the best locations within the stations. Here is a sample of MTA data. 
+- I use MTA data (April and May of 2017) to get info of subway stations. In order to get most signatures, street team need to be exposed to as many as people possible. Thus I need to find out the busiest stations and the best locations within the stations. Here is a sample of MTA data file. 
 
 ![alt text](https://siyuan126.github.io/images/Sample MTA data.png)
+
+Please click this link to the data dictionary. [I'm an inline-style link]( https://data.ny.gov/api/views/i55r-43gk/files/wvX7ZEZpMrzjwBd2r_ZE3Nl4OLdJFP_t32osotBZPi0?download=true&filename=MTA_Turnstile_Data_DataDictionary.pdf)
