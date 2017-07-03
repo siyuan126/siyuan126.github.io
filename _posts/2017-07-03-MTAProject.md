@@ -8,13 +8,11 @@ WomenTechWomenYes (WTWY) needs to collect email addresses at subway stations so 
 1. Make assumptions
 - There are several assumptions need to be made in order to solve this problem. Here is a list of assumptions and how they affect next steps.
 
-{:.tablestyle}
-
 | Assumptions                                    | So what                         |
 | -----------------------------------------------|:-------------------------------:|
 | WTWY has limited resources                     | Only focus on best options      |
 | Signatures collecting happens before annul gala| Data before summer matters      |  
 | Annul gala can be hold anywhere in NYC         | Location of gala doesn't matter |    
-
+{:.tablestyle}
 2. Data Sources
 - I use MTA data (April and May of 2016) to get info of subway stations. 
