@@ -14,7 +14,8 @@ WomenTechWomenYes (WTWY) needs to collect email addresses at subway stations so 
    > table, td, th {
         border: 1px solid black;
         }
-}
+} 
+
 | Assumptions                                    | So what                         |
 | -----------------------------------------------|:-------------------------------:|
 | WTWY has limited resources                     | Only focus on best options      |
