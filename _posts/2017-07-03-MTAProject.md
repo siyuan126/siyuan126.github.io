@@ -2,7 +2,7 @@
 layout: post
 title: MTA Project
 ---
-![alt text](https://siyuan126.github.io/images/Sample MTA data.png)
+![alt text](https://siyuan126.github.io/images/women_technology.jpg)
 
 ### Problem Statement
 WomenTechWomenYes (WTWY) needs to collect email addresses at subway stations so it can send free tickets to its annul gala. WTWY hopes to use data analytics to help its street team gather most signatures from those who will attend the gala and contribute to its fundraising and other duties such as increase awareness and passion.
