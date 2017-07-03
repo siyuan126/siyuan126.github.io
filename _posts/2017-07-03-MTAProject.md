@@ -20,4 +20,4 @@ WomenTechWomenYes (WTWY) needs to collect email addresses at subway stations so 
 
 ![alt text](https://siyuan126.github.io/images/Sample MTA data.png)
 
-Please click this link to the data dictionary. [I'm an inline-style link]( https://data.ny.gov/api/views/i55r-43gk/files/wvX7ZEZpMrzjwBd2r_ZE3Nl4OLdJFP_t32osotBZPi0?download=true&filename=MTA_Turnstile_Data_DataDictionary.pdf)
+**[Please click this link to the data dictionary.]( https://data.ny.gov/api/views/i55r-43gk/files/wvX7ZEZpMrzjwBd2r_ZE3Nl4OLdJFP_t32osotBZPi0?download=true&filename=MTA_Turnstile_Data_DataDictionary.pdf)
