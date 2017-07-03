@@ -22,4 +22,4 @@ WomenTechWomenYes (WTWY) needs to collect email addresses at subway stations so 
 
 [Please click this link for the data dictionary.]( https://data.ny.gov/api/views/i55r-43gk/files/wvX7ZEZpMrzjwBd2r_ZE3Nl4OLdJFP_t32osotBZPi0?download=true&filename=MTA_Turnstile_Data_DataDictionary.pdf)
 
-- MTA data is used to maximum signatures, other data source needs to be investigated to guarantee the quality of the signatures, which is whether people who sign up are more likely to donate.   
+- MTA data is used to maximum signatures, while other data source also needs to be investigated to guarantee the quality of the signatures, which is to get people who are more likely to donate.   
