@@ -8,6 +8,13 @@ WomenTechWomenYes (WTWY) needs to collect email addresses at subway stations so 
 1. Make assumptions
 - There are several assumptions need to be made in order to solve this problem. Here is a list of assumptions and how they affect next steps.
 
+.mbtablestyle {
+        border-collapse: collapse;
+
+   > table, td, th {
+        border: 1px solid black;
+        }
+}
 | Assumptions                                    | So what                         |
 | -----------------------------------------------|:-------------------------------:|
 | WTWY has limited resources                     | Only focus on best options      |
@@ -16,12 +23,6 @@ WomenTechWomenYes (WTWY) needs to collect email addresses at subway stations so 
 
 {:.mbtablestyle}
 
-.mbtablestyle {
-        border-collapse: collapse;
 
-   > table, td, th {
-        border: 1px solid black;
-        }
-}
 2. Data Sources
 - I use MTA data (April and May of 2016) to get info of subway stations. 
