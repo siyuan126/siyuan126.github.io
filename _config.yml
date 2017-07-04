@@ -19,11 +19,11 @@ avatar: https://avatars2.githubusercontent.com/u/10052104?v=3&s=460
 footer-links:
   dribbble:
   email: siyuan126@gmail.com
-  facebook:
+  facebook: https://www.facebook.com/profile.php?id=100004303536864
   flickr:
   github: siyuan126/siyuan126.github.io
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/in/yuan-si-7739557a/
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter: 
@@ -37,7 +37,7 @@ footer-links:
 disqus:
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
-google_analytics:
+google_analytics: UA-102000997-1
 
 # Your website URL (e.g. http://barryclark.github.io or http://www.barryclark.co)
 # Used for Sitemap.xml and your RSS feed
