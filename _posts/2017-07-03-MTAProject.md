@@ -7,7 +7,7 @@ title: MTA Project
 ### Problem Statement
 WomenTechWomenYes (WTWY) needs to collect email addresses at subway stations so it can send free tickets to its annul gala. WTWY hopes to use data analytics to help its street team gather most signatures from those who will attend the gala and contribute to its fundraising and other duties such as increase awareness and passion.
 ### My approach to WTWY's request
-##### Data Sources
+#### Data Sources
 - **MTA data** is used to get info of subway stations. In order to get most signatures, street team need to be exposed to as many as people possible. Thus I need to find out the busiest stations and best locations and the busiest time within the stations. Here is a sample of MTA data file. 
 
 ![alt text](https://siyuan126.github.io/images/Sample MTA data.png)
@@ -16,7 +16,7 @@ WomenTechWomenYes (WTWY) needs to collect email addresses at subway stations so 
 
 - MTA data is used to maximum signatures, while other data sources also need to be investigated to guarantee the quality of the signatures, which is to get people who are more likely to donate. People's donating behavior is influenced by two factors: willingnss to donate and capability to donate. In this project, I use **income data** as an indicator of people's capability to donate.  
 
-##### Data Analysis Work Flow
+#### Data Analysis Work Flow
 ![alt text](https://siyuan126.github.io/images/Workflow.png)
 
 
