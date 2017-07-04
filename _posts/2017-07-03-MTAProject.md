@@ -2,10 +2,7 @@
 layout: post
 title: MTA Project
 ---
-![alt text](https://siyuan126.github.io/images/women_technology.jpg)
-
-### Problem Statement
-WomenTechWomenYes (WTWY) needs to collect email addresses at subway stations so it can send free tickets to its annul gala. WTWY hopes to use data analytics to help its street team gather most signatures from those who will attend the gala and contribute to its fundraising and other duties such as increase awareness and passion.
+WomenTechWomenYes (WTWY) needs to collect email addresses at subway stations so it can send free tickets to its annul gala. WTWY hopes to use data analytics to help its street team gather most signatures from those who will attend the gala and contribute to its fundraising and other duties.
 ### My approach to WTWY's request
 #### Data Sources
 - **MTA data** is used to get info of subway stations. In order to get most signatures, street team need to be exposed to as many as people possible. Thus I need to find out the busiest stations and best locations and the busiest time within the stations. Here is a sample of MTA data file. 
