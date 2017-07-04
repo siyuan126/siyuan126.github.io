@@ -27,6 +27,5 @@ WomenTechWomenYes (WTWY) needs to collect email addresses at subway stations so 
 - MTA data is used to maximum signatures, while other data sources also need to be investigated to guarantee the quality of the signatures, which is to get people who are more likely to donate. People's donating behavior is influenced by two factors: willingnss to donate and capability to donate. In this project, I use **income data** as an indicator of people's capability to donate.  
 
 ##### Data Analysis Work Flow
-
-![alt text](https://siyuan126.github.io/images/Workflow.png]
+![alt text](https://siyuan126.github.io/images/Workflow.png)
 ### Solution
