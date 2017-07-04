@@ -28,5 +28,5 @@ WomenTechWomenYes (WTWY) needs to collect email addresses at subway stations so 
 
 ##### Data Analysis Work Flow
 
-![alt text](https://siyuan126.github.io/images/workflow.png]
+![alt text](https://siyuan126.github.io/images/Workflow.png]
 ### Solution
