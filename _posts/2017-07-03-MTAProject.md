@@ -18,7 +18,7 @@ WomenTechWomenYes (WTWY) needs to collect email addresses at subway stations so 
 
 ### Results
 |Busiest stations                                                  |Busiest turnstiles                                       |
-|   :-------------------------------------------------------------:|   ---------------------------------------------------:|
-|   ![](https://siyuan126.github.io/images/Busieststations.png)       | ![](https://siyuan126.github.io/images/topstations2.png)|
+|:-------------------------------------------------------------:|: ---------------------------------------------------:|
+|![](https://siyuan126.github.io/images/Busieststations.png)       | ![](https://siyuan126.github.io/images/topstations2.png)|
 
 
