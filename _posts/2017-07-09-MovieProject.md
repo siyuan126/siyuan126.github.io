@@ -1,4 +1,4 @@
 ---
 layout: post
-title: Movie Project
+title: Predicting Domestic Box Office
 ---
