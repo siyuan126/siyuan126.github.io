@@ -7,4 +7,5 @@ Although US has the most success movie business, it still suffers from high fail
 #### How I Help?
 I am trying to help address movie investors' concern by building up a linear regression model to predict domestic box office. Linear regression model is a simple yet powerful tool when it comes to make predictions. A typical linear regression looks like this:
 
-  ![alt text](https://siyuan126.github.io/images/multi-regression-equation.png)
+   ![alt text](https://siyuan126.github.io/images/multi-regression-equation.png)
+As long as we figure out all the parameters, we give this model a series of input, we will get an output. 
