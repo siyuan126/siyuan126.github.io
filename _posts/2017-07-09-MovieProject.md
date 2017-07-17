@@ -10,3 +10,6 @@ I am trying to help address movie investors' concern by building up a linear reg
    ![alt text](https://siyuan126.github.io/images/multi-regression-equation.png)
 
 As long as we figure out all the parameters in the model, we give this model a series of input, we will get an output. 
+
+#### What I do?
+I web scrape data using popular tools beautifulsoup and Scrapy from two websites : MojoBoxOffice and The Numbers. 
