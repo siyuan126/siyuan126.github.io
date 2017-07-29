@@ -12,4 +12,4 @@ I am trying to help address movie investors' concern by building up a linear reg
 As long as we figure out all the parameters in the model, we give this model a series of input, we will get an output. Thus we can use this model to predict futuren domestic box office. 
 
 #### What I do?
-I use popular web scrapin tools beautifulsoup and Scrapy to extract data from two websites : [MojoBoxOffice]( http://www.boxofficemojo.com) and [The Numbers](http://www.the-numbers.com) 
+I use popular web scraping tools beautifulsoup and Scrapy to extract data from two websites : [MojoBoxOffice]( http://www.boxofficemojo.com) and [The Numbers](http://www.the-numbers.com). In total, I collect 12 features of 514 movies from 2009-2016. 
