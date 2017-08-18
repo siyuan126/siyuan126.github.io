@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Optimizing Street Team's performance
+title: Optimizing Street Team's Performance
 ---
 WomenTechWomenYes (WTWY) needs to collect email addresses at subway stations so it can send free tickets to its annul gala. WTWY hopes to use data analytics to help its street team gather most signatures from those who will attend the gala and contribute to its fundraising and other duties.
 #### My approach to WTWY's request
