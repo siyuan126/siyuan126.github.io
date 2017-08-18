@@ -1,4 +1,4 @@
 ---
 layout: post
-title: Machine Learning for a Smarter Review Platform
+title: Machine Learning for a Smarter Online Review Platform
 ---
