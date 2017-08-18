@@ -1,4 +1,4 @@
 ---
 layout: post
-title: What is a Data Scientist? 
+title: What does it mean being a Data Scientist? 
 ---
