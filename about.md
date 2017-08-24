@@ -8,8 +8,8 @@ I think myself as a translator between data and humans. I enjoy solving real wor
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I am about the finish Metis data science bootcamp and actively looking for a job as data scientist. Please don't hesitate to contact me if you have any job-related infomation. 
 
 ### Contact me
 
-[siyuan126l@gmail.com](mailto:email@domain.com)
+[siyuan126@gmail.com](mailto:email@domain.com)
