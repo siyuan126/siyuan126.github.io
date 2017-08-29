@@ -2,3 +2,4 @@
 layout: post
 title: Demystifying Police Ticketing
 ---
+On a typical day, about 50,000 Americans are pulled over by the police, and aroud 70% of them would get a traffic ticket. Compared to drivers with a clean driving history, people who got tickets in generall pay 11% more for their car insurance.which is about $617/year. These facts inspire two questions: 1) Can we predict if a driver will get a ticket after pulled over? 2) What factors will affect policer officers' decision during a stopping?
