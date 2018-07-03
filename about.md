@@ -8,8 +8,6 @@ I think myself as a translator between data and humans. I enjoy solving real wor
 
 ### More Information
 
-I am about to finish Metis data science bootcamp and actively looking for a full-time job as data scientist. Please don't hesitate to contact me if you have any job-related infomation. [Here is the link to my resume](https://resume.creddle.io/embed/hviigv6oy03)
-
 ### Contact me
 
 [siyuan126@gmail.com](mailto:email@domain.com)
